@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Game1.SoundTrack" Collapsed="true">
+    <Position X="19.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAgAAAgAAAABAAAAAAAAAAAAAAAAIAABAAAA=</HashCode>
+      <FileName>Core\SoundTrack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game1.Game1" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAEEAAAAAAAwAAAAAAAIAAAAggAEhACAAAAAAACBQ=</HashCode>
+      <FileName>Game1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game1.Enemy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="11.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JAwACAAAABAAAwQgQAAAGAAAAAAAAAAgAAAINAAAIAA=</HashCode>
+      <FileName>Moving Entities\Enemy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Game1.ETears" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="13.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>HAQAAAAAgAAAQ0AAAAgAMAAAADAAAACAAAAAhAgAIAA=</HashCode>
+      <FileName>Moving Entities\ETears.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Game1.Player" Collapsed="true">
+    <Position X="19.5" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQACAAAlBAAA0AgADgACEACQACAAAAiAgAAIAg4BAQ=</HashCode>
+      <FileName>Moving Entities\Player.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game1.Tears" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="10" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>DAQAAAAAgAAAQ0AAEAgAMAAAABAAAACAAAAAhIgAIAA=</HashCode>
+      <FileName>Moving Entities\Tears.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Game1.Program" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game1.Item" Collapsed="true">
+    <Position X="16" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIQAAwAgAAAAAAAAAAAAQCAAAAAQAAAAAAQ=</HashCode>
+      <FileName>Static World\Item.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game1.Rock" Collapsed="true">
+    <Position X="16" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YAgAAAAAAAAAAgAgAAAAAAAAABAAAAAIAAAUAAAAAAw=</HashCode>
+      <FileName>Static World\Rock.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game1.Displays.CharacterSelectionDisplay" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAwCAAAAAAAAAgAAAAAAAQAAAACAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Displays\CharacterSelectionDisplay.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Game1.Displays.GameDisplay" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>wAQDJgCgEAKAQgAAggQkCEAAAAQAAQBBQBBMERJARAQ=</HashCode>
+      <FileName>Displays\GameDisplay.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Game1.Displays.Leaderboards" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQKAECgCAJAAgAAEAAAAEAAAAQAAAAAAAIAAAAAAAQ=</HashCode>
+      <FileName>Displays\Leaderboards.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Game1.Displays.LoadingScreenDisplay" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAgAAAAAgAAAAAAAEAAAAAAAACAAAAAAAAAgAQ=</HashCode>
+      <FileName>Displays\LoadingScreenDisplay.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.302" />
+  </Class>
+  <Class Name="Game1.Displays.MainMenuDisplay" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="7.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAwCQAAAAAAAAgAAAAAAAAAAAAAAAAAAoAAAAAAAAAQ=</HashCode>
+      <FileName>Displays\MainMenuDisplay.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.278" />
+  </Class>
+  <Class Name="Game1.Displays.Tutorial" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="12.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAwCAAAgAAAAAgAAAAAAAEAAAAAAAAAAIAAAAAAAAAQ=</HashCode>
+      <FileName>Displays\Tutorial.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Game1.Static_World.Transition" Collapsed="true">
+    <Position X="19.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAAAAgAAAAkAAAAgAIAAAAAAAAUBAAAAAAAgAAAQ=</HashCode>
+      <FileName>Static World\Transition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Game1.Core.Display" Collapsed="true">
+    <Position X="7.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Core\Display.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Game1.Core.Entity" Collapsed="true">
+    <Position X="11.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAwAAAAAAEAAAAAAAAAAAAAAABAAAIAA=</HashCode>
+      <FileName>Core\Entity.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Delegate Name="Game1.Displays.Wave" Collapsed="true">
+    <Position X="17.75" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Displays\GameDisplay.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Delegate Name="Game1.Displays.WaveEnd" Collapsed="true">
+    <Position X="17.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Displays\GameDisplay.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

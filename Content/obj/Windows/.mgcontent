@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Assets/bee.jpg</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Assets/Rock.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Assets/Room.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Assets/isaac.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Assets/tears.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Audio/Soundtrack/Burzum.mp3</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Audio/Soundtrack/Darkthrone.mp3</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Audio/Soundtrack/Marduk.mp3</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Audio/Soundtrack/Mayhem.mp3</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Assets/EnemyT.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Assets/item.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Assets/Font/CurrentSong.spritefont</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Assets/TearsSS.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Assets/isaacSS.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Assets/EnemyTSS.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Audio/Soundtrack/OceanMan.mp3</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Assets/isaacSSP.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Assets/Rock50.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Assets/MainMenu/Volniir.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Assets/LoadingScreen/VolniirLS.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Assets/LoadingScreen/VLS1.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Assets/LoadingScreen/VLS3.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Assets/LoadingScreen/VLS4.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Audio/LoadingScreen/VolniirLSM.mp3</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Assets/LoadingScreen/VLS5.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Assets/Room2.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Assets/transition.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Assets/Room3.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Assets/Room4.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Assets/dewae.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Assets/exit.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Assets/play.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Assets/playWC.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Assets/p1logo.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Assets/p2logo.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Assets/characterS.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Assets/p2SS.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Assets/item1.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Assets/item2.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Assets/item3.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Assets/tutorial.png</File>
+    <File>Z:/Submissions/Computer Science/2016-18/Barnes, Tom S013138/Computer Science/Game1/Game1/Content/Assets/stats.png</File>
+  </SourceFiles>
+</SourceFileCollection>
